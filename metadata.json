@@ -1,0 +1,6 @@
+{
+  "name": "TaskPro - Professional Task Management",
+  "description": "A premium modern productivity and task management web app to plan, focus, and achieve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
